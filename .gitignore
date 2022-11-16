@@ -1,0 +1,7 @@
+notebooks/
+
+papers/*
+!papers/README.md
+
+
+__pycache__/
