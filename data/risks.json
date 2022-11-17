@@ -1,6 +1,19 @@
 {
-    "too fast decision":7,
-    "Arms Racing/Escalation":6,
-    "precision error":5,
-    "Too Much Trust in AI":4
+    "Decision made too fast":7,
+    "Could result in increasing escalation":6,
+    "Precision error":5,
+    "Hard to differentiate combatant/non-combatant":5,
+    "Hard to differentiate Anomaly from threat":5,
+    "Cannot adapt programming":4,
+    "Might result in automation bias":4,
+    "dight might be noisy, resulting in error":4,
+    "Reduces attribution, encouraging bad behavior":4,
+    "Could cause arms racing and proliferation":3,
+    "Systems might be fielded before full safety testing":3,
+    "Humans could lose essential skills":3,
+    "Might be vulnerable to spoofing and hacking":3,
+    "Bhaviour might not be explainable":2,
+    "Might exhibt emregent bhaviour":2,
+    "Lower cost of war":2,
+    "No risks were mentioned":0
 }
