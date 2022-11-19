@@ -1,7 +1,11 @@
 notebooks/
 
+# keep only links to papers
 papers/*
 !papers/README.md
 
-
+# cache files
 __pycache__/
+
+# configuration files
+.vscode/
